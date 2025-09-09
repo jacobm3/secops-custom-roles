@@ -1,0 +1,54 @@
+2025-09-09T17:57:26.292Z [INFO]  Terraform version: 1.10.5
+2025-09-09T17:57:26.294Z [DEBUG] using github.com/hashicorp/go-tfe v1.70.0
+2025-09-09T17:57:26.295Z [DEBUG] using github.com/hashicorp/hcl/v2 v2.23.0
+2025-09-09T17:57:26.295Z [DEBUG] using github.com/hashicorp/terraform-svchost v0.1.1
+2025-09-09T17:57:26.296Z [DEBUG] using github.com/zclconf/go-cty v1.16.2
+2025-09-09T17:57:26.296Z [INFO]  Go runtime version: go1.23.3
+2025-09-09T17:57:26.296Z [INFO]  CLI args: []string{"terraform", "format"}
+2025-09-09T17:57:26.296Z [DEBUG] Attempting to open CLI config file: /home/jmarts/.terraformrc
+2025-09-09T17:57:26.297Z [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2025-09-09T17:57:26.298Z [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2025-09-09T17:57:26.298Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.terraform.d/plugins
+2025-09-09T17:57:26.299Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/terraform/plugins
+2025-09-09T17:57:26.300Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/terraform/plugins
+2025-09-09T17:57:26.300Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/flatpak/exports/share/terraform/plugins
+2025-09-09T17:57:26.301Z [DEBUG] ignoring non-existing provider search directory /var/lib/flatpak/exports/share/terraform/plugins
+2025-09-09T17:57:26.301Z [DEBUG] ignoring non-existing provider search directory /usr/local/share/terraform/plugins
+2025-09-09T17:57:26.302Z [DEBUG] ignoring non-existing provider search directory /usr/share/terraform/plugins
+2025-09-09T17:57:26.304Z [INFO]  CLI command args: []string{"format"}
+2025-09-09T17:59:03.680Z [INFO]  Terraform version: 1.10.5
+2025-09-09T17:59:03.681Z [DEBUG] using github.com/hashicorp/go-tfe v1.70.0
+2025-09-09T17:59:03.682Z [DEBUG] using github.com/hashicorp/hcl/v2 v2.23.0
+2025-09-09T17:59:03.682Z [DEBUG] using github.com/hashicorp/terraform-svchost v0.1.1
+2025-09-09T17:59:03.682Z [DEBUG] using github.com/zclconf/go-cty v1.16.2
+2025-09-09T17:59:03.682Z [INFO]  Go runtime version: go1.23.3
+2025-09-09T17:59:03.683Z [INFO]  CLI args: []string{"terraform", "format"}
+2025-09-09T17:59:03.683Z [DEBUG] Attempting to open CLI config file: /home/jmarts/.terraformrc
+2025-09-09T17:59:03.683Z [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2025-09-09T17:59:03.684Z [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2025-09-09T17:59:03.685Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.terraform.d/plugins
+2025-09-09T17:59:03.685Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/terraform/plugins
+2025-09-09T17:59:03.686Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/terraform/plugins
+2025-09-09T17:59:03.686Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/flatpak/exports/share/terraform/plugins
+2025-09-09T17:59:03.686Z [DEBUG] ignoring non-existing provider search directory /var/lib/flatpak/exports/share/terraform/plugins
+2025-09-09T17:59:03.686Z [DEBUG] ignoring non-existing provider search directory /usr/local/share/terraform/plugins
+2025-09-09T17:59:03.687Z [DEBUG] ignoring non-existing provider search directory /usr/share/terraform/plugins
+2025-09-09T17:59:03.689Z [INFO]  CLI command args: []string{"format"}
+2025-09-09T17:59:08.027Z [INFO]  Terraform version: 1.10.5
+2025-09-09T17:59:08.028Z [DEBUG] using github.com/hashicorp/go-tfe v1.70.0
+2025-09-09T17:59:08.029Z [DEBUG] using github.com/hashicorp/hcl/v2 v2.23.0
+2025-09-09T17:59:08.029Z [DEBUG] using github.com/hashicorp/terraform-svchost v0.1.1
+2025-09-09T17:59:08.029Z [DEBUG] using github.com/zclconf/go-cty v1.16.2
+2025-09-09T17:59:08.029Z [INFO]  Go runtime version: go1.23.3
+2025-09-09T17:59:08.029Z [INFO]  CLI args: []string{"terraform", "fmt"}
+2025-09-09T17:59:08.029Z [DEBUG] Attempting to open CLI config file: /home/jmarts/.terraformrc
+2025-09-09T17:59:08.030Z [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2025-09-09T17:59:08.030Z [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2025-09-09T17:59:08.030Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.terraform.d/plugins
+2025-09-09T17:59:08.031Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/terraform/plugins
+2025-09-09T17:59:08.031Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/terraform/plugins
+2025-09-09T17:59:08.031Z [DEBUG] ignoring non-existing provider search directory /home/jmarts/.local/share/flatpak/exports/share/terraform/plugins
+2025-09-09T17:59:08.031Z [DEBUG] ignoring non-existing provider search directory /var/lib/flatpak/exports/share/terraform/plugins
+2025-09-09T17:59:08.031Z [DEBUG] ignoring non-existing provider search directory /usr/local/share/terraform/plugins
+2025-09-09T17:59:08.031Z [DEBUG] ignoring non-existing provider search directory /usr/share/terraform/plugins
+2025-09-09T17:59:08.033Z [INFO]  CLI command args: []string{"fmt"}
