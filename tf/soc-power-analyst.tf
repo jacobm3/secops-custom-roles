@@ -247,8 +247,6 @@ resource "google_project_iam_custom_role" "soc-power-analyst" {
     "chronicle.watchlists.get",
     "chronicle.watchlists.list",
     "chronicle.watchlists.update",
-    "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
   ]
 }
 
