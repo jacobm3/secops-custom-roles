@@ -1,6 +1,6 @@
 resource "google_project_iam_custom_role" "soc-power-analyst" {
-  role_id     = "soc-power-analyst"
-  title       = "soc-power-analyst"
+  role_id     = "soc_power_analyst"
+  title       = "SOC Power Analyst"
   description = "SOC analyst, including editing reference lists, data tables, and dashboards"
   permissions = [
     "chronicle.ais.createFeedback",
