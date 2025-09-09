@@ -3,7 +3,7 @@
 ## Roles
 This repo contains Terraform code for custom SecOps IAM roles, if you require something more granular than the prebuilt Chronicle API Admin, Editor, and Viewer roles.
 
-The latest pre-built GCP role definitions can be in the console here:
+The latest pre-built GCP role definitions can be found in the console here:
 
 https://console.cloud.google.com/iam-admin/roles/details/roles
 
